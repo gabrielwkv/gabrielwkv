@@ -10,12 +10,6 @@
 <br/>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=gabrielwkv&show_icons=true" alt="gabrielwkv"/> 
-</p>
-
-<br/>
-
-<p align="center">
 <a href="https://twitter.com/gabrielwkv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gabrielwkv" height="20" width="20" /></a>
 <a href="https://www.linkedin.com/in/ggmsantos/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ggmsantos" height="20" width="20" /></a>
 <a href="https://instagram.com/https.santos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https.santos" height="20" width="20" /></a>
